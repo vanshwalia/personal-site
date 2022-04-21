@@ -1,0 +1,30 @@
+
+
+
+ body{
+    background-color:#E8F6EF;
+}
+
+hr{
+  
+    border-style: none;
+    
+    border-color: rgb(0, 0, 0);
+    
+    width:100%
+
+    /* width: 60%; */
+}
+
+h1{
+    color: black;
+}
+
+h3{
+    color: darkslategray;
+}
+
+.h1_heading:hover{
+    background-color: gold;
+
+}
